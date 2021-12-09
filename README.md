@@ -7,7 +7,7 @@ A simple REST API that returns the top 100 trending repos on Github categorised 
 
 ## Get started
 1. Make sure Python is installed on your machine
-2. Download the master repository as.zip
+2. Download the 'main' repository as.zip
 3. Unzip the content to your desired location
 4. Open your prefered Console (CMD, Powershell, Teminal ...) inside the app directory. The root directory contains "app.py", so make sure your console can see that file  
 5. activate the virtual envirement:
